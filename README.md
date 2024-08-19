@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Contos infantis ilustrados, para meu filhos.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Tenho um filho de 4 anos que está na fase de medo do escuro, e uma filha de 11 anos que não quer saber de estudar, só celular. Tive a ideia de usar as IA's generativas para criar pequenos contos para eles, para incentivá-los a superarem seus medos e vícios.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e gerador de imagens do Copilot.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o ChatGPT para criar as histórias e fui testando prompts diferentes até que elas ficassem interessantes. Precisei de aproximadamente dois ou três ajustes em cada. Depois, testei o Leonardo Ai, o Midjourney e o Copilot image para criar, mas não estava gostando dos resultados. Voltei ao ChatGPT e o usei para melhorar meus prompts. Usei o prompt melhorado do ChatGPT no Copilot, para gerar as imagens.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultados estão nos dois arquivos anexos a esse repositório.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Percebi que o maior desafido está relacionado no prompt. Desenvolver bons prompts é a chave para chegar a resultados bem próximos à realidade.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
